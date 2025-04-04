@@ -1,0 +1,11 @@
+2025-04-04 07:27:03.113481 - Received CBT.V508.FILE297.PDS from FILE297.XMI 
+2025-04-04 07:27:03.114311 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/$$$#DATE
+2025-04-04 07:27:03.114460 - Found $$CHANGE.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/$$CHANGE
+2025-04-04 07:27:03.114594 - Found $$DOC.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/$$DOC
+2025-04-04 07:27:03.114758 - Found $COMMON.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/$COMMON
+2025-04-04 07:27:03.114880 - Found @FILE297.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/@FILE297
+2025-04-04 07:27:03.115012 - Found GRS.jcl (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/GRS
+2025-04-04 07:27:03.115143 - Found GRS@PRIM.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/GRS@PRIM
+2025-04-04 07:27:03.115264 - Found GRSMAJ.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/GRSMAJ
+2025-04-04 07:27:03.115377 - Found GRSP002.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/GRSP002
+2025-04-04 07:27:03.115493 - Found GRSP003.txt (text/plain) in CBT.V508.FILE297.PDS, moved to PDS/GRSP003
